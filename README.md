@@ -56,22 +56,6 @@ The original dataset was transformed into a *long format* where each row represe
 
 ---
 
-## 🗂️ Folder Structure
-
-tech-stock-analysis/
-│
-├── README.md
-├── data/
-│ └── long_format_tech_stocks.csv
-├── sql/
-│ └── analysis_queries.sql
-├── tableau/
-│ └── dashboard.twbx or Tableau Public link
-└── excel/
-└── stock_summary.xlsx (optional exports or checks)
-
----
-
 ## 📎 Tableau Dashboard
 
 View the final dashboard on **[Tableau Public](#)** (link to be added).

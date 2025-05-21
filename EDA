@@ -17,4 +17,4 @@ AAPL had the highest return at 3784%
 Followed by AMZN (~3177%) and NVDA (~3158%)
 
 
-(sql/15y stock q1.sql)
+['Q1:return_2010_to_2024.sql'](sql/15y_stock_q1.sql)

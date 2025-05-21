@@ -40,9 +40,10 @@ The original dataset was transformed into a *long format* where each row represe
 
 1. Which company delivered the highest return from 2010 to 2024?
 2. How do annual closing prices compare between the five stocks?
-3. What trends emerge in trading volume over time?
-4. Which company had the most consistent performance?
-5. What were the most volatile periods for each stock?
+3. Which stock had the most stable price (lowest standard deviation)?
+4. Which year was the best-performing year (by average close) for each stock?
+5. What were the highest and lowest prices each stock ever reached?
+6. What is the average daily volume traded per stock?
 
 ---
 

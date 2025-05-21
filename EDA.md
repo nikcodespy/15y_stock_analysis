@@ -1,14 +1,14 @@
-📊 Exploratory Data Analysis: 15-Year Tech Stock Trends
+## 📊 Exploratory Data Analysis: 15-Year Tech Stock Trends
 
 This document summarises the EDA (Exploratory Data Analysis) I performed using MySQL on historical stock data from 2010 to 2024 for five major tech companies: AAPL, AMZN, GOOGL, MSFT, and NVDA.
 
-🔍 What I Did
+## 🔍 What I Did
 
 Using beginner-friendly SQL queries, I explored long-term performance, average closing prices, volatility, and consistency across five major tech stocks. The dataset was cleaned and transformed into a long format with columns for Date, Ticker, Open, High, Low, Close, and Volume.
 
-❓ Questions I Answered
+## ❓ Questions I Answered
 
-✅ Q1: Which company delivered the highest return from 2010 to 2024?
+** ✅ Q1: Which company delivered the highest return from 2010 to 2024? **
 
 Solved by: Calculating each stock's total return (%) by comparing the first and last available closing prices from 2010 to 2024.
 
@@ -22,7 +22,7 @@ NVDA had the highest return, reflecting a massive growth in the GPU and AI space
 ![Image](https://github.com/user-attachments/assets/678d711c-a5f1-4f4e-854a-f6ff6c983f06)
 
 
-✅ Q2: Annual average closing price per stock
+** ✅ Q2: Annual average closing price per stock **
 
 Solved by: Computing each stock's yearly average closing price from 2010 to 2024.
 
@@ -36,7 +36,7 @@ These major stocks have a positive growth on average every year due to the innov
 ![Image](https://github.com/user-attachments/assets/58bd4dad-3832-4066-bffd-207fe0f46cc8) ![Image](https://github.com/user-attachments/assets/4db20115-8291-43c8-9f55-046807e4239c) ![Image](https://github.com/user-attachments/assets/ac8f595d-70a2-437c-bbb4-8d16e845a968)
 
 
-✅ Q3: Standard deviation of closing prices (price stability)
+** ✅ Q3: Standard deviation of closing prices (price stability) **
 
 Solved by: Measuring the standard deviation of each stock’s closing prices over the full 15-year period.
 
@@ -50,7 +50,7 @@ NVDA showed the most stable price behaviour while MSFT showed the highest volati
 ![Image](https://github.com/user-attachments/assets/eb85755b-53b8-4d62-89a6-71fce94b31d1)
 
 
-✅ Q4: Best-performing years by highest average closing price
+** ✅ Q4: Best-performing years by highest average closing price **
 
 Solved by: Identifying the best year per stock by the highest average closing price.
 
@@ -65,7 +65,7 @@ Every company has peaked in 2024
 ![Image](https://github.com/user-attachments/assets/a11f9967-e887-4432-aee7-de43cd89a0af) ![Image](https://github.com/user-attachments/assets/d4a4913e-c801-4bb4-a652-d549c18cb282) ![Image](https://github.com/user-attachments/assets/69d2ac70-db9c-4e55-a0a1-c6e5e44dc6e9)
 
 
-✅ Q5: What was the highest and lowest price each stock ever reached?
+** ✅ Q5: What was the highest and lowest price each stock ever reached? **
 
 Solved by: Extracting the historical max and min closing prices for each company.
 
@@ -78,7 +78,7 @@ Result:
 ![Image](https://github.com/user-attachments/assets/43010a44-9821-473c-9faa-bfedaac3aef9)
 
 
-✅ Q6: What is the average daily volume per stock?
+** ✅ Q6: What is the average daily volume per stock? **
 
 Solved by: Calculating the average number of shares traded per day for each company.
 

@@ -12,6 +12,8 @@ Using beginner-friendly SQL queries, I explored long-term performance, average c
 
 Solved by: Calculating the percentage change between the first and last closing price.
 
+![Image](https://github.com/user-attachments/assets/ac074bd8-c553-4b57-9dc2-c6955d778ea6)
+
 Result:
 AAPL had the highest return at 3784%
 Followed by AMZN (~3177%) and NVDA (~3158%)

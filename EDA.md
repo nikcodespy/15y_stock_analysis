@@ -60,7 +60,7 @@ NVDA showed the most stable price behaviour while MSFT showed the highest volati
 
 Solved by: Identifying the best year per stock by the highest average closing price.
 
-Why: This highlights peak performance years, useful for understanding when a company had maximum market confidence or performance.
+Why: This highlights peak performance years, which is useful for understanding when a company had maximum market confidence or performance.
 
 ![Image](https://github.com/user-attachments/assets/9d6a6d0c-609d-4059-9cc1-2c633000961d)
 

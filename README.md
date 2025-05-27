@@ -49,17 +49,18 @@ The original dataset was transformed into a *long format* where each row represe
 
 ## 📊 Visualisations Created
 
-- 📈 Line chart: 15-year closing price trends
-- 📆 Heatmap: Monthly average returns by year
-- 📉 Bar chart: Annual returns by company
-- ⚖️ Scatter plot: Volume vs volatility
-- 📊 Area chart: Cumulative returns over time
+📊 Bar Chart: Total return (%) from 2010–2024 by stock
+📈 Line Chart: Average annual closing price trends over 15 years
+📉 Bar Chart: Standard deviation of closing prices (volatility measure)
+🧱 Treemap: Best-performing year per stock based on average closing price
+🔻 Dual Bar Chart: Highest vs lowest historical closing price by company
+🫧 Bubble Chart: Average daily trading volume per stock
 
 ---
 
 ## 📎 Tableau Dashboard
 
-View the final dashboard on **[Tableau Public](#)** (link to be added).
+View the final dashboard on **[Tableau Public](https://public.tableau.com/app/profile/nik.patel2467/viz/15yStockVisualisations/15ystock)**
 
 ---
 
